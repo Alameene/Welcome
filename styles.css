@@ -94,4 +94,12 @@ span{
         padding: 12px;
         border: 2px solid rgb(173, 158, 15);
     }
+
+    .first{
+    background-image: url(bd.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    position: relative;
+}
 }
